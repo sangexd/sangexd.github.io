@@ -1,3 +1,2 @@
 # sangexd.github.io
-https://sangexd.github.io/index/
-Mi pagina Personal
+Mi pagina Personal https://sangexd.github.io/index/
