@@ -1,4 +1,3 @@
-https://sangexd.github.io/index/
-#../index/index.html
 # sangexd.github.io
+https://sangexd.github.io/index/
 Mi pagina Personal
